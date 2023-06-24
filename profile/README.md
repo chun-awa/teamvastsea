@@ -1,4 +1,6 @@
-# 瀚海工艺-Vastsea | GitHub Organization
+<div align="center">
+    <h1><a><img src="Logo-SVG-Circle.svg" alt="" width="3%" height="3%" style="vertical-align: middle;"/>&nbsp;&nbsp;瀚海工艺-Vastsea | GitHub Organization</a></h1>
+</div>
 
 <p align="center">
     <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -9,7 +11,9 @@
     <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 </p>
 
-**> 纸上得来终觉浅 , 绝知此事要躬行**
+<p align="center">
+    —— · <b>纸上得来终觉浅  绝知此事要躬行</b> · ——
+</p>
 
 ## 一、关于本组织
 - ### 本组织为瀚海工艺官方仓库，用于存放本团队的开源项目，您可以在许可证及[用户协议](https://www.vastsea.cc/user-agreement)的限度内进行二次开发, 同时欢迎您为我们提出宝贵的意见.
@@ -42,3 +46,7 @@
 - [地标管理插件](https://github.com/TeamVastsea/LavaLocationManager) - 带有点赞系统的地标管理系统插件
 - [创世神修复版](https://github.com/TeamVastsea/WorldEdit) - 解决了由[JustEnoughIDs](https://www.curseforge.com/minecraft/mc-mods/jeid)模组引起的方块注册名溢出问题
 - [自定义出生点](https://github.com/TeamVastsea/CustomSpawn) - 简易的自定义世界出生点插件
+
+<p align="right">
+    Designed with :heart: by <a href="https://github.com/SnowballXueQiu" target="_blank">Snowball_233</a>.
+</p>
