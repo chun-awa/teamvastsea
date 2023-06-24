@@ -1,5 +1,5 @@
 <div align="center">
-    <h1><a><img src="Logo-SVG-Circle.svg" alt="" width="3%" height="3%" style="vertical-align: middle;"/>&nbsp;&nbsp;瀚海工艺-Vastsea | GitHub Organization</a></h1>
+    <h1><a><img src="https://github.com/TeamVastsea/.github/blob/main/profile/Logo-SVG-Circle.svg" alt="" width="3%" height="3%" style="vertical-align: middle;"/>&nbsp;&nbsp;瀚海工艺-Vastsea | GitHub Organization</a></h1>
 </div>
 
 <p align="center">
