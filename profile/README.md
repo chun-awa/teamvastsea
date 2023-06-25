@@ -30,11 +30,11 @@
 
 ## 三、相关链接
 | 平台       | 链接                                         |
-|:---------|:-------------------------------------------|
-| 官方网站     | https://www.vastsea.cc                     |
-| Bilibili | https://space.bilibili.com/2126404404      |
-| 氧气论坛     | https://bbs.oxygenstudio.cn/categories/58/ |
-| 爱发电      | https://afdian.net/a/vastsea               |
+|:---------:|:-------------------------------------------:|
+| 官方网站     | [点击跳转](https://www.vastsea.cc)                     |
+| Bilibili | [点击跳转](https://space.bilibili.com/2126404404)      |
+| 氧气论坛     | [点击跳转](https://bbs.oxygenstudio.cn/categories/58/) |
+| 爱发电      | [点击跳转](https://afdian.net/a/vastsea)               |
 | QQ群聊     | 494978157                                  |
 | 官方邮箱     | admin@vastsea.cc                           |
 
