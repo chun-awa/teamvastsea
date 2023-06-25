@@ -16,9 +16,11 @@
 </p>
 
 ## 一、关于本组织
+
 - ### 本组织为瀚海工艺官方仓库，用于存放本团队的开源项目，您可以在许可证及[用户协议](https://www.vastsea.cc/user-agreement)的限度内进行二次开发, 同时欢迎您为我们提出宝贵的意见.
 
 ## 二、待办事项
+
 - [x] 服务端
 - [ ] 客户端 (内测中)
 - [ ] 启动器
@@ -27,24 +29,27 @@
 - [x] 云黑系统
 - [ ] 硬件论坛
 
-
 ## 三、相关链接
-| 平台       | 链接                                         |
-|:---------:|:-------------------------------------------:|
-| 官方网站     | [点击跳转](https://www.vastsea.cc)                     |
-| Bilibili | [点击跳转](https://space.bilibili.com/2126404404)      |
-| 氧气论坛     | [点击跳转](https://bbs.oxygenstudio.cn/categories/58/) |
-| 爱发电      | [点击跳转](https://afdian.net/a/vastsea)               |
-| QQ群聊     | 494978157                                  |
-| 官方邮箱     | admin@vastsea.cc                           |
+
+|    平台    |                         链接                         |
+|:--------:|:--------------------------------------------------:|
+|   官方网站   |           [点击跳转](https://www.vastsea.cc)           |
+| Bilibili |   [点击跳转](https://space.bilibili.com/2126404404)    |
+|   氧气论坛   | [点击跳转](https://bbs.oxygenstudio.cn/categories/58/) |
+|   爱发电    |        [点击跳转](https://afdian.net/a/vastsea)        |
+|   QQ群聊   |                     494978157                      |
+|   官方邮箱   |                  admin@vastsea.cc                  |
 
 ## 四、加入我们
+
 - ### 如果您有意向加入我们，您可以联系雪球(QQ号:2957202260)以获取更多信息.
 
 ## 五、猜您喜欢
+
 - [Linux系统探针](https://github.com/TeamVastsea/System-Probe) - 一款由Rust开发的Linux系统监控程序
 - [地标管理插件](https://github.com/TeamVastsea/LavaLocationManager) - 带有点赞系统的地标管理系统插件
-- [创世神修复版](https://github.com/TeamVastsea/WorldEdit) - 解决了由[JustEnoughIDs](https://www.curseforge.com/minecraft/mc-mods/jeid)模组引起的方块注册名溢出问题
+- [创世神修复版](https://github.com/TeamVastsea/WorldEdit) -
+  解决了由[JustEnoughIDs](https://www.curseforge.com/minecraft/mc-mods/jeid)模组引起的方块注册名溢出问题
 - [自定义出生点](https://github.com/TeamVastsea/CustomSpawn) - 简易的自定义世界出生点插件
 
 <p align="right">
