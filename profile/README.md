@@ -45,14 +45,6 @@
 
 - ### 如果您有意向加入我们，您可以联系雪球(QQ号:2957202260)以获取更多信息.
 
-## 五、猜您喜欢
-
-- [Linux系统探针](https://github.com/TeamVastsea/System-Probe) - 一款由Rust开发的Linux系统监控程序
-- [地标管理插件](https://github.com/TeamVastsea/LavaLocationManager) - 带有点赞系统的地标管理系统插件
-- [创世神修复版](https://github.com/TeamVastsea/WorldEdit) -
-  解决了由[JustEnoughIDs](https://www.curseforge.com/minecraft/mc-mods/jeid)模组引起的方块注册名溢出问题
-- [自定义出生点](https://github.com/TeamVastsea/CustomSpawn) - 简易的自定义世界出生点插件
-
 <p align="right">
     Designed with :heart: by <a href="https://github.com/SnowballXueQiu" target="_blank">Snowball_233</a>.
 </p>
