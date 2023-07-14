@@ -4,7 +4,7 @@
 
 <p align="center">
     English | 
-    <a href="README-CHINESE.md">简体中文</a>
+    <a href="/profile/README-CHINESE.md">简体中文</a>
 </p>
 
 <p align="center">

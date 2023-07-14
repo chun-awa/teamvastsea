@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-    <a href="README.md">English</a> | 
+    <a href="/profile/README.md">English</a> | 
     简体中文
 </p>
 
