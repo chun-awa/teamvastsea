@@ -3,8 +3,8 @@
 </div>
 
 <p align="center">
-    English | 
-    <a href="README-CHINESE.md">简体中文</a>
+    <a href="README.md">English</a> | 
+    简体中文
 </p>
 
 <p align="center">
@@ -21,34 +21,34 @@
     —— · <b>纸上得来终觉浅  绝知此事要躬行</b> · ——
 </p>
 
-## 1、About the Organization
+## 一、关于本组织
 
-- ### This Organization is Vastsea Technology Department Official Repository, to storage ours Open Source Projects, you can do secondary development within our [Licenses](https://choosealicense.com/) and [Terms of Service](https://www.vastsea.cc/user-agreement) limits.
+- ### 本组织为瀚海工艺官方仓库，用于存放本团队的开源项目，您可以在[许可证](https://choosealicense.com/)及[用户协议](https://www.vastsea.cc/user-agreement)的限度内进行二次开发, 同时欢迎您为我们提出宝贵的意见.
 
-## 2、To Do
+## 二、待办事项
 
-- [x] Server Client
-- [ ] User Client (Internal Testing)
-- [ ] Game Launcher
-- [ ] Website Frontend
-- [x] Website Backend
-- [x] Cloud Black List System
-- [ ] Hardware Forum
+- [x] 服务端
+- [ ] 客户端 (内测中)
+- [ ] 启动器
+- [ ] 网站前端
+- [x] 网站后端
+- [x] 云黑系统
+- [ ] 硬件论坛
 
-## 3、Links
+## 三、相关链接
 
-|     Platform     |                            Link                             |
-|:----------------:|:-----------------------------------------------------------:|
-| Official Website |           [Click to Jump](https://www.vastsea.cc)           |
-|     Bilibili     |   [Click to Jump](https://space.bilibili.com/2126404404)    |
-|   Oxygen Forim   | [Click to Jump](https://bbs.oxygenstudio.cn/categories/58/) |
-|     Afadian      |        [Click to Jump](https://afdian.net/a/vastsea)        |
-|     QQ Group     |                          494978157                          |
-|  Official Email  |                      admin@vastsea.cc                       |
+|    平台    |                         链接                         |
+|:--------:|:--------------------------------------------------:|
+|   官方网站   |           [点击跳转](https://www.vastsea.cc)           |
+| Bilibili |   [点击跳转](https://space.bilibili.com/2126404404)    |
+|   氧气论坛   | [点击跳转](https://bbs.oxygenstudio.cn/categories/58/) |
+|   爱发电    |        [点击跳转](https://afdian.net/a/vastsea)        |
+|   QQ群聊   |                     494978157                      |
+|   官方邮箱   |                  admin@vastsea.cc                  |
 
-## 4、Participate in us
+## 四、加入我们
 
-- ### If you intend to participate in us, you can contact Snowball_233(QQ Code: 2957202260) to learn about more information.
+- ### 如果您有意向加入我们，您可以联系雪球(QQ号:2957202260)以获取更多信息.
 
 <p align="right">
     Designed with :heart: by <a href="https://github.com/SnowballXueQiu" target="_blank">Snowball_233</a>.
