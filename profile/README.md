@@ -41,7 +41,7 @@
 |:----------------:|:-----------------------------------------------------------:|
 | Official Website |           [Click to Jump](https://www.vastsea.cc)           |
 |     Bilibili     |   [Click to Jump](https://space.bilibili.com/2126404404)    |
-|   Oxygen Forim   | [Click to Jump](https://bbs.oxygenstudio.cn/categories/58/) |
+|   Oxygen Forum   | [Click to Jump](https://bbs.oxygenstudio.cn/categories/58/) |
 |     Afadian      |        [Click to Jump](https://afdian.net/a/vastsea)        |
 |     QQ Group     |                          494978157                          |
 |  Official Email  |                      admin@vastsea.cc                       |
